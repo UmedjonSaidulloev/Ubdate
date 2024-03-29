@@ -10,6 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="#F30A0A"
         android:text="@string/my_first_git_project"
         android:textSize="30sp"
         android:textStyle="bold"
